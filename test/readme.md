@@ -1,0 +1,1 @@
+All structures used in these unittests are extracted from ChEMBL, where we use the first 1000 compounds in chembl23. We have attached the corresponding ChEMBLIDs to all structures in the files.
